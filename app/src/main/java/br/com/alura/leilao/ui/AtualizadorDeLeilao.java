@@ -1,7 +1,5 @@
 package br.com.alura.leilao.ui;
 
-import android.content.Context;
-import android.widget.Toast;
 
 import java.util.List;
 
